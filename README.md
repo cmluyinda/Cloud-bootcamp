@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am learning Cloud Computing and DevOps Engineering.
+I am learning Cloud Computing and DevOps Engineering. NOW THIS IS IN GITHUB
 
 ## Skills I Am Developing
 
