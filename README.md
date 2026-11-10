@@ -8,6 +8,8 @@ Making new changes git commands
 
 Making changes in new branch "first/Cloud-bootcamp-branch"
 
+This is a second branch trial to practise training by Soleyman
+
 ## Skills I Am Developing
 
 - Linux
